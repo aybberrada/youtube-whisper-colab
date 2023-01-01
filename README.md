@@ -3,7 +3,7 @@
 
 Welcome to the "Youtube Whisperer" Colab notebook!
 
-This notebook allows you to transcribe any YouTube video by simply providing the link to the video. The transcription will be automatically downloaded as a text file, using OpenAI's Whisper model, which is a state-of-the-art speech-to-text model.
+This notebook allows you to transcribe any YouTube video, using OpenAI's Whisper model, which is a state-of-the-art speech-to-text model, by simply providing the link to the video. The transcription will be automatically downloaded as a text file, or as subtitles (.SRT) 
 
 To use the notebook, simply enter the link to the YouTube video that you want to transcribe and chose one of the Whisper models. **(By default: tiny)**
 The transcription will be downloaded to your local machine as a text file.
