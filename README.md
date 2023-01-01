@@ -8,4 +8,5 @@ This notebook allows you to transcribe any YouTube video, using OpenAI's Whisper
 To use the notebook, simply enter the link to the YouTube video that you want to transcribe and chose one of the Whisper models. **(By default: tiny)**
 The transcription will be downloaded to your local machine as a text file.
 
-![image](https://user-images.githubusercontent.com/87365631/210184608-9313a0d9-2dd6-4f85-b6b2-b883003a280d.png)
+![image](https://user-images.githubusercontent.com/87365631/210185708-4e03df56-cc1e-490a-b733-52d1f04e06ca.png)
+
